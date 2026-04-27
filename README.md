@@ -26,13 +26,11 @@ The system allows managing customers, including:
 - Axios
 - HTML / CSS
 
-### Other
-- Apache POI (Excel processing)
-- Postman (API testing)
+
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Backend Features
 - Create Customer
